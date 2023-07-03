@@ -20,7 +20,7 @@ jobs:
         run: |
           # Add test commands here
     
-      - name: Deploy to production
+      - name: Deploy to Docker
         run: |
           # Add deployment commands here
 
